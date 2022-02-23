@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Charge voted against Bishop Wren on Munday, 5 of July, 1641 in the afternoon which consists of these severall particulars following.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31763</idno>
+            <idno type="STC">Wing C2063</idno>
+            <idno type="STC">ESTC R29193</idno>
+            <idno type="EEBO-CITATION">10849213</idno>
+            <idno type="OCLC">ocm 10849213</idno>
+            <idno type="VID">46115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Charge voted against Bishop Wren on Munday, 5 of July, 1641 in the afternoon which consists of these severall particulars following.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wren, Matthew, 1585-1667.</term>
+               <term>Church of England --  Government.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46115:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:46115:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>THE CHARGE VOTED AGAINST BISHOP WREN <hi>On Munday, 5. of</hi> July, 1641. in the Afternoone, which conſiſts of theſe ſeverall Particulars following.</p>
+            <figure>
+               <q>ASPICIS VT VIVNNT PELLICANI SANGVINE PVLLI · SIC CHRISTO EFFVSO SANGVINE VIVIS HOMO*</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the yeare, of our Praelates feare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46115:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb n="3" facs="tcp:46115:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <opener>
+               <dateline>
+                  <date>Munday, 5 July, 1641.</date>
+               </dateline>
+            </opener>
+            <head>This Afternoone the Charge was voted againſt Biſhop <hi>Wren,</hi> which conſiſts of theſe ſeverall Articles folllowing.</head>
+            <p>
+               <label>FIrſt,</label> Excommunicating, Depriving, or Baniſhing in the ſpace of 2 years 50 godly, painfull, learned Miniſters.</p>
+            <p>
+               <label>Secondly,</label> Practiſing ſuperſtition in his own perſon.</p>
+            <p>
+               <label>Thirdly,</label> Cauſing the Communion Table to be pla<g ref="char:EOLhyphen"/>ced Altar-wiſe, and to be railed in, &amp; kneeling and con<g ref="char:EOLhyphen"/>ſecrating the Bread and Wine at the Weſt ſide of the Communion-table with his backe towards the people, and bowing to or before the ſame.</p>
+            <p>
+               <label>Fourthly,</label> Elevating the Bread and Wine over his head that the people might ſee it.</p>
+            <p>
+               <label>Fifthly,</label> Cauſing all his Pewes or Seats, to be ſo con<g ref="char:EOLhyphen"/>trived, that the people muſt of neceſſity kneele with their faces towards the Eaſt.</p>
+            <p>
+               <label>Sixthly,</label> Employed his power to reſtraine powerfull preaching, forbidding all Sermons on Sundayes After<g ref="char:EOLhyphen"/>noons, or in the week dayes, without his lycenſe, &amp; leſt expounding the Catechiſme, and Common-prayer booke, ſhould be as bad as Preaching; as hee and ſome of his Officers ſaid, therefore he inhibits any manner of expoſition, and injoines<g ref="char:punc">▪</g> onely the bare Queſtion and Anſwers in the Common-prayer booke.</p>
+            <p>
+               <label>Seventhly,</label> And to the end, the people ſhall not know where there is any Sermons, commands all ringing of
+<pb n="4" facs="tcp:46115:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->
+Bells to be alike, that ſo the people may not diſtinguiſh where there is a Sermon, or where there is but prayer.</p>
+            <p>
+               <label>Eightly,</label> He permitted no Prayer to bee read before Sermon, but that which is directed in the 39. Canon, which hath no warrant of Law, and after Sermon ſuf<g ref="char:EOLhyphen"/>fers no Prayer at all, but onely <hi>Gloria Patri, &amp;c.</hi>
+            </p>
+            <p>
+               <label>Ninthly,</label> He did publiſh a book of Articles, to which the Church-wardens were to be ſworne, and theſe 39. <hi>Articles</hi> contain at leaſt 897. Queſtions. One whereof was this, doth any man diſcourſe profainly at Meale<g ref="char:EOLhyphen"/>time, touching Religion or the holy Scripture?</p>
+            <p>Another, Doth the Miniſter expound the holy Scri<g ref="char:EOLhyphen"/>pture, according to the ſenſe of the antient Fathers?</p>
+            <p>
+               <hi>This, I muſt beleeve, will puſſell the beſt learned Church-wardens in England to anſwer.</hi>
+            </p>
+            <p>
+               <hi>Thurſday</hi> next, is appointed to conſider what penalty the Biſhops have incur'd, by making theſe Canons which tend to Sedition.</p>
+            <p>The Reſult and Concluſion which was drawn from the fore-mentioned Premiſſes, was that, it was reſolved upon the Queſtion, that it is the opinion of this Houſe, that <hi>Matthew Wren</hi> Biſhop of <hi>Ely,</hi> is unworthy and un<g ref="char:EOLhyphen"/>fit to hold or exreciſe any Office of Dignity in the Church or Common-wealth.</p>
+            <p>Reſolved that there be a Meſſage ſent to the Lords to deſire them to joyne with the <hi>Commons</hi> to petition his Majeſty to remove Biſhop <hi>Wren</hi> both from his perſon and ſervice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46115:3"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </body>
+   </text>
+</TEI>
